@@ -16,4 +16,5 @@ Participants of the [Digital Causality Lab](https://digitalcausalitylab.github.i
 5. Open a pull request and review your changes.
 6. Merge the pull request and pull the `main` branch again. Verify that your changes have been merged.
 
+My change
 
