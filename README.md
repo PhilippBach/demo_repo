@@ -52,5 +52,3 @@ We'd recommend you to organize your repo as follows.
 * In case you use quarto for your data product, include your `.qmd` files here, see [this example](demo_repo.qmd)
 
 These basic recommendations are intended to give you a bit structure. You can deviate from them as you like but please make sure others should be able to understand what you did. 
-
-This is my change to the Readme file.
